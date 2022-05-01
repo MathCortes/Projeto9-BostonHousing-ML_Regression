@@ -14,8 +14,10 @@
     2. Regressão Linear Multidimensional
     3. Regressão Ridge
     4. Regressão Lasso
+    5. Regressão por Rede Elástica
 - Etapa de 'Reshape' no treinamento de modelos com apenas 1 feature
 - Estudar o conceito Cross-validation de maneira mais aprofundada
+- Primeiro contato com o tema 'Tuning Hyperparameters'
 
 ### Fonte
 - Projeto pessoal com os assuntos abordados no módulo: <br>
